@@ -1,3 +1,5 @@
+![Header](./profil.png)
+
 <h1 align="center">Hi 👋, I'm Abdelhafidh GHARBI</h1>
 <h3 align="center">Passionate Fullstack Developer 🚀 | Tunisia 🇹🇳 | Exploring the World of Software Engineering</h3>
 
